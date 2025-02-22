@@ -29,4 +29,4 @@
         1. 2d pose estimation
             - identifies keypoints in 2d space (x, y coordinates)
         2. 3d pose estimation
-            - adds depth (X, Y, Z) to estimate spatial positioning
+            - adds depth (x, y, z) to estimate spatial positioning
